@@ -23,7 +23,7 @@ This repository handles the **authentication** for users, including **Signup** a
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Rajput-vinay/Backend_AuthApp.git
+   git clone https://github.com/Rajput-vinay/Authentication_Service.git 
    2. Install dependencies:
     ```bash
     npm install
